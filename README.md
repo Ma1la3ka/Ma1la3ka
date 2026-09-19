@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ma1la3ka/Ma1la3ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+AbdulMalik+%F0%9F%91%8B;Building+Locus+for+the+NVIDIA+x+Nebius+Hackathon;CS+%40+University+of+Ilorin" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently building
+
+**[Locus](https://github.com/Ma1la3ka/Astralv1)** — a personal AI agent that can safely teach itself new skills. When it writes a new skill at runtime, it traces the skill's behavior in a sandbox and auto-generates a minimal, least-privilege security policy for it — no broad access, no manually hand-written permissions. Built for the Nebius x NVIDIA Global AI Hackathon on Nemotron, NemoClaw, and Nebius Token Factory.
+
+### 👋 About me
+
+Passionate about AI agents, systems security, and building things that actually get used. Currently deep in a six-week hackathon build, learning fast, and shipping in public.
+
+### 🛠️ Tools & languages
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+
+### 📊 GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma1la3ka&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ma1la3ka&theme=midnight-purple&hide_border=false)
+
+<div align="center">
+
+📫 Reach me on [LinkedIn](#) · Building in public, one commit at a time.
+
+</div>
