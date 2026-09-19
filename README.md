@@ -15,12 +15,12 @@ Passionate about AI agents, systems security, and building things that actually 
 ### 🛠️ Tools & languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-
 ### 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma1la3ka&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
